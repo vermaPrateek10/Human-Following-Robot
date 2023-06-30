@@ -1,6 +1,9 @@
 # Human-Following-Robot
-Step 1: Gather the necessary components:
+I built an awesome robot using Arduino Uno and a motor shield. It uses two sensors, IR sensor and ultrasonic sensor. 
 
+Here is a step-by-step guide for making the human-following robot using Arduino
+
+Step 1: Gather the necessary components:
 Arduino Uno
 Motor shield
 IR sensor
